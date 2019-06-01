@@ -1,3 +1,3 @@
 # second
-second test project:wq!
+second test project
 
